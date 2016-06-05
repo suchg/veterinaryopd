@@ -1,7 +1,0 @@
-containerSize
-portName
-carrierName
-consingeeName
-termsOfShipment
-origin
-finalDestination
