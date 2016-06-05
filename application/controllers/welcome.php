@@ -18,7 +18,9 @@ class Welcome extends CI_Controller {
 	 * @see http://codeigniter.com/user_guide/general/urls.html
 	 */
 	public function index()
-	{	
+	{
+		
+			$this->load->helper('url');
 		//$objLayout = new layoutcustom();
 		//$this->load->library('layout');
 		$this->layout->load('welcome_message');

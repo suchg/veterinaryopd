@@ -15,6 +15,9 @@
 
     <title>SB Admin 2 - Bootstrap Admin Theme</title>
 
+	<link rel = "stylesheet" type = "text/css" 
+   href = "<?php echo base_url(); ?>css/bootstrap.css">
+   
     <!-- Bootstrap Core CSS -->
     <!-- link href="<?php echo $bootstrap; ?>css/bootstrap.min.css" rel="stylesheet" -->    
     <link href="<?php echo $bootstrap; ?>css/bootstrap.css" rel="stylesheet">
